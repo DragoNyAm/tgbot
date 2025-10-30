@@ -4,7 +4,7 @@ import os
 from pathlib import Path
 
 # Токен бота
-BOT_TOKEN = os.getenv('BOT_TOKEN', '1951673158:AAErUxJElgBdkQB9XxVhigPArEpLCa2HCVM')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '7990277461:AAEhVvRmFKch7e1YrGF-fkuLqC6y4-4PMrM')
 
 # Директории
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
